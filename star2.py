@@ -1,7 +1,7 @@
 from turtle import *
 from colorsys import *
 bgcolor("black")
-tracer(50)
+tracer(80)
 pensize(4)
 h=0
 for i in range(600):
